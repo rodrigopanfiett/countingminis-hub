@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+    <title>Counting Minis - Hub</title>
+</head>
+<body>
+    <!-- Profile picture-->
+    <img src="https://i.postimg.cc/rp4vZCth/countingminis-logo.png" alt="profile picture" class="profile-picture-hub img-hub">
+
+    <!-- Profile name-->
+    <div class="profile-name-hub">@countingminis</div>
+
+    <!-- Links-->
+        <a href="#" class="links-hub">Hot Wheels Premium</a>
+        <a href="#" class="links-hub">Hot Wheels Team Transport</a>
+        <a href="#" class="links-hub">Auto Art - Pronta Entrega</a>
+        <a href="#" class="links-hub">Auto Art - Sob Encomenda</a>
+        <a href="#" class="links-hub">Auto Art - Pré-Venda</a>   
+  </body>  
+</html>
