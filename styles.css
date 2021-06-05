@@ -2,8 +2,7 @@ body {
 	width: 100wh;  
 	height: 90vh;
 	color: #fff;
-	background-image: url("https://i.postimg.cc/W1ygk7h4/bkg.jpg");
-	background-repeat: repeat-round;
+	background: linear-gradient(90deg, #003B71 0%, #10CFC9 100%);
 	font-family: "Montserrat", Sans-serif;
 	font-size: 15px;
 	letter-spacing: 2px;  
