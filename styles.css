@@ -17,13 +17,13 @@ img-hub {
     border-radius: 50%;
   }
 
-.profile-picture-hub {
+img.profile-picture-hub {
     display: block;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    margin-top: 0px !important;
-    height: auto !important;
-    max-width: 100px !important; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    height: auto;
+    max-width: 100px; 
 	  -moz-box-shadow: 0px 6px 5px #111; 
 	  -webkit-box-shadow: 0px 6px 5px #111; 
 	  box-shadow: 0px 2px 10px #111; 
